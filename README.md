@@ -23,8 +23,7 @@
 
 ## 🛠 技術架構建議
 
-- 前端：React Native（跨平台 App）react-i18next（React 最常用 i18n 套件）
--      Flutter flutter_localizations
+- 前端：React Native（跨平台 App）react-i18next（React 最常用 i18n 套件）Flutter flutter_localizations
 - 後端：Node.js + Firebase（或 Supabase）
 - 地圖導航：Google Maps API
 - 即時同步：WebSocket + Firebase
