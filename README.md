@@ -19,10 +19,12 @@
 - **即時逃生導航**：整合地圖與災區動態資料，提供最安全路線
 - **GPS 追蹤協作**：家庭或朋友之間定位彼此，協助避難集合
 - **官方訊息整合**：匯入消防署、縣市政府公告，自動推播訊息
+- **支持多國語言**：中、日、韓、印尼、西班牙、英文
 
 ## 🛠 技術架構建議
 
-- 前端：React Native（跨平台 App）
+- 前端：React Native（跨平台 App）react-i18next（React 最常用 i18n 套件）
+-      Flutter flutter_localizations
 - 後端：Node.js + Firebase（或 Supabase）
 - 地圖導航：Google Maps API
 - 即時同步：WebSocket + Firebase
