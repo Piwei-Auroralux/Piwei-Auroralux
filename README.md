@@ -8,7 +8,7 @@
 
 
 --->
-# 🌪️ Bubble-Milk-Tea - 災難預警與協作應變平台
+# 🌪️ Super-Bubble-Milk-Tea - disaster-aid-app - 災難預警與協作應變平台
 
 這是一個專為極端氣候與突發災害而設計的智慧應變系統，包含以下功能：
 
